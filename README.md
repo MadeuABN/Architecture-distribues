@@ -12,3 +12,9 @@ Problématiques : Le but de ce projet était de pouvoir répondre à deux probl�
 Dans le fichier : Architecturedistribués2.zip
 Nous avons récupéré les 500 derniers tweets en format csv. (fichier untitled1.ipynb)
 Les producer et consumer ne fonctionnent pas.
+
+
+# Sracp : Site metastats
+
+Dans le fichier : HSscrap.rar
+On scrap dans un premier temps les données concernants les decks. Dans un second on scrap les données concernants les cartes à l'aide des données récupérées avant. Pour finir on regroupe les cartes apparaissant dans un plusieurs decks afin d'avoir les stats de chaques cartes.
