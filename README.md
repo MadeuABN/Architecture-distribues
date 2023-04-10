@@ -18,3 +18,15 @@ Les producer et consumer ne fonctionnent pas.
 
 Dans le fichier : HSscrap.rar
 On scrap dans un premier temps les données concernants les decks. Dans un second on scrap les données concernants les cartes à l'aide des données récupérées avant. Pour finir on regroupe les cartes apparaissant dans un plusieurs decks afin d'avoir les stats de chaques cartes.
+
+
+# Visualisation : PowerBI
+
+Dans le pdf : HS_visu.pdf
+Sur le premier graphique on peut voir le nombre de like par rapport au poste.
+Les deux suivants permettent de comparer le nombre de parties au nombre de likes par deck.
+Le dernier permet quand à lui de voir l'évolution du nombre de parties au fil du temps selon les 3 decks les plus likés.
+
+# Conclusion
+
+Suite à notre travail sur l pipeline où l'on récupère, stock et traite nos données, nous avons pu répondre visuellement à notre problématique à l'aide de graphique produit sur PowerBI.
