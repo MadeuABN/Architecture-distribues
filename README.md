@@ -14,7 +14,7 @@ Nous avons récupéré les 500 derniers tweets en format csv. (fichier untitled1
 Les producer et consumer ne fonctionnent pas.
 
 
-# Sracp : Site metastats
+# Scrap : Site metastats
 
 Dans le fichier : HSscrap.rar
 On scrap dans un premier temps les données concernants les decks. Dans un second on scrap les données concernants les cartes à l'aide des données récupérées avant. Pour finir on regroupe les cartes apparaissant dans un plusieurs decks afin d'avoir les stats de chaques cartes.
